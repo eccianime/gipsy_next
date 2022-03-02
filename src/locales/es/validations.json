@@ -1,0 +1,77 @@
+{
+  "adyen": {
+    "general": "Error de transacción",
+    "Refused": "Transacción rechazada"
+  },
+  "checkout": {
+    "Errors::ReservationsExpired": "Reserva caducada",
+    "Errors::PaymentInvalidStatus": "Estado de pago no válido",
+    "Errors::TicketsNotReserved": "Tickets no reservados",
+    "Errors::TripsAmountLimitReached": "Se alcanzó el límite de cantidad de viajes",
+    "Errors::PhoneAbsent": "Teléfono ausente"
+  },
+  "discountCode": {
+    "noSpecialChar": "Sin caracteres especiales"
+  },
+  "empty": {
+    "searchResult": "No connections available",
+    "paymentDetails": "No hay datos del pago aún.",
+    "creditCard": "No ha salvado los datos de su tarjeta de crédito"
+  },
+  "invalid": "Inválido {{field}}",
+  "length": "{{field}} debe tener como máximo {{length}} caracteres",
+  "missing": "Sin fecha",
+  "modals": {
+    "creditCard": {
+      "delete": {
+        "question": "Tienes certeza?",
+        "message": "¿Quieres borrar la tarjeta?"
+      },
+      "deleteAndAdd": {
+        "question": "Has alcanzado el límite de tarjetas guardadas",
+        "message": "Para agregar su nueva tarjeta, eliminaremos la más antigua, ¿de acuerdo?"
+      }
+    }
+  },
+  "mustBeNumber": "{{field}} ¡debe ser un número!",
+  "notFound": "Usuario no existente",
+  "passwordConfirm": "La contraseña debe coincidir",
+  "paymentStatus": {
+    "CVC Declined": "CVC Rechazado",
+    "Authentication failed": "Autenticación sin éxito"
+  },
+  "required": "{{field}} ¡se requiere!",
+  "requiredOr": "{{field}} o {{secondField}} se requiere",
+  "reservation": {
+    "Errors::PriceHasChanged": "El precio ya no está disponible"
+  },
+  "somethingWentWrong": "Ha ocurrido un error. Por favor contacte al soporte o intente más tarde.",
+  "user": {
+    "email": {
+      "invalid": "Por favor ingrese un email válido(p.ej. name@email.com)",
+      "taken": "Este Email ya está utilizado"
+    },
+    "password": {
+      "invalid": "Por favor ingrese una contraseña válida (8 caracteres y 1 número)"
+    },
+    "phoneNumber": {
+      "invalid": "Deben ser solo números",
+      "notFound": "Usuario con número de teléfono inexistente",
+      "taken": "Este Número de teléfono ya está utilizado"
+    },
+    "countryCode": {
+      "invalid": "Por favor indique un país correctamente"
+    },
+    "cpf": {
+      "invalid": "Por favor ingrese un número de identificación con un máximo de 11 digitos, p.ej. nnn.nnn.nnn-nn",
+      "invalid1": "Por favor ingresse os 11 dígitos de seu cpf corretamente"
+    },
+    "birthDate": {
+      "invalid": "La fecha de Nacimiento no puede ser en el futuro",
+      "inFuture": " La fecha de Nacimiento no puede ser en el futuro "
+    }
+  },
+  "validationCode": {
+    "sentAlready": "Se ha enviado un Código de confirmación"
+  }
+}

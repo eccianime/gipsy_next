@@ -1,0 +1,568 @@
+{
+  "airPolution": {
+    "header": "Viajar connosco sem impactar com o ambiente. Todas as nossas emissões de CO2 serão compensadas por nós!",
+    "link": "Informe-se mais, junte-se à nossa causa"
+  },
+  "auth": {
+    "signUp": {
+      "header": "Criar conta",
+      "viaMobilePhone": "Registar-se com número de telemóvel",
+      "viaEmail": "Registar-se com E-Mail",
+      "clickAgreement": "Ao prosseguir com o registo, concordo com as condições",
+      "termsAndConditions": "Termos & Condições",
+      "signUp": "Criar conta",
+      "login": "Iniciar sessão",
+      "passport": "Passporte",
+      "id": "Cartão de cidadão"
+    },
+    "confirmation": {
+      "header": "Confirme o seu {{field}}",
+      "weSent": "Enviámos um código de confirmação para:",
+      "checkCode": "Por favor verifique {{field}} e introduza o código abaixo para completar o seu processo de registo",
+      "validationCode": "Código de validação",
+      "validated": "Validado",
+      "invalid": "Código inválido",
+      "didntGet": "Não recebeu o seu código?",
+      "resendEmail": "Reenviar código",
+      "retryResend": "Tentar novo envio em {{seconds}} segundos"
+    },
+    "signUpCompleted": {
+      "header": "Registo completo",
+      "description": "O registo foi concluído, pode agora iniciar a sua sessão e utilizar os serviços da Gipsyy.",
+      "backToMain": "Voltar à página inicial",
+      "Login": "Iniciar sessão"
+    },
+    "forgotPassword": {
+      "header": "Esqueci-me da palavra-chave?",
+      "description": "Por favor introduza o E-Mail de registo. Enviaremos um link para o seu E-Mail para reiniciar a palavra-chave.",
+      "button": "Reiniciar palavra-chave"
+    },
+    "confirmForgotPassword": {
+      "header": "Reiniciar a palavra-chave",
+      "description": "Por favor introduza uma palavra-chave com pelo menos 8 caracteres.",
+      "button": "Reiniciar palavra-chave"
+    },
+    "validateForgotPassword": {
+      "header": "Código de validação",
+      "description": "Por favor introduza o código de validação enviado para {{field}}"
+    },
+    "signIn": {
+      "header": "Iniciar sessão"
+    },
+    "signInMobile": {
+      "header": "Iniciar sessão com o número de telefone",
+      "description": "Insira o seu número de telefone, nós enviar-lhe-emos uma mensagem com o código de verificação",
+      "button": "Enviem-me o código de verificação"
+    }
+  },
+  "topAd": {
+    "knowOurDestiny": "Conheça nossos destinos!"
+  },
+  "carousel": {
+    "header": "Destinos principais",
+    "displayAll": "Ver todos os destinos"
+  },
+  "checkout": {
+    "checkbox": "Aceito receber ofertas e novidades no meu e-mail",
+    "main": {
+      "back": "Voltar",
+      "passengerInformation": "Informações do Passageiro",
+      "yourTicket": "As suas Reservas",
+      "extras": "Extras"
+    },
+    "ticket": {
+      "departureLabel": "Partida",
+      "returnLabel": "Regresso",
+      "subTotalWithoutTax": "Sub-Total (com iva):",
+      "seatReservation": "Reserva de Lugar",
+      "total": "Total"
+    },
+    "extras": {
+      "seatReservation": "Lugar Reservado",
+      "from": "desde",
+      "reserveSeat": "Reserve o seu lugar",
+      "ensureWhereYouWillSeat": "Verifique a sua reserva",
+      "selectSeats": "Escolha um Lugar"
+    },
+    "messages": {
+      "countdownFinished": "Reserva atingiu o limite de tempo",
+      "multibancoDepartureAt": "Pagamento por Multibanco não é permitido"
+    }
+  },
+  "cookies": {
+    "accept": "Aceitar",
+    "text": "Utilizamos cookies para melhorar sua experiência e personalizar a oferta de conteúdos. Ao utilizar este site, concorda com o uso de cookies.",
+    "privacy": "Política de Privacidade"
+  },
+  "discountCode": {
+    "placeholder": "Código de desconto",
+    "button": "Aplicar"
+  },
+  "faqs": {
+    "pageTitle": "Perguntas Frequentes"
+  },
+  "footer": {
+    "usefulLinks": "Links Úteis",
+    "legal": "Legal",
+    "social": "Redes sociais",
+    "faq": "FAQ",
+    "newsletterLabel": "Descontos, novos destinos e mais!",
+    "newsletterPlaceholder": "Endereço de E-Mail",
+    "newsletterFailureMessage": "Ocorreu um erro ao subscrever a newsletter!",
+    "newsletterSuccessMessage": "Subscrição Concluída!",
+    "copyrights": "Gipsyy Direitos Reservados"
+  },
+  "header": {
+    "menu": "Menu",
+    "help": "Ajuda",
+    "stopsInformation": "Onde embarcar",
+    "faqs": "Perguntas frequentes",
+    "userMenu": {
+      "myBookings": "As minhas reservas",
+      "userProfile": "Perfil do Utilizador",
+      "creditCards": "Métodos de pagamento",
+      "logout": "Terminar sessão"
+    }
+  },
+  "help": {
+    "title": "Como podemos ajudá-lo?",
+    "searchPlaceholder": "Procurar",
+    "searchResult": {
+      "header": "Resultado da pesquisa",
+      "resultNumber": "{{number}} resultados para \"{{query}}\""
+
+    },
+    "onlineSupport": "Suporte Online",
+    "schedule": "Diariamente das 09:00 às 19:00.",
+    "speakByText": "Conversar por texto",
+    "contactUs": "Entre em contato conosco pelo nosso Whatsapp",
+    "whatsappText": "Acessar Whatsapp",
+    "whatsappNumber": "351913568693"
+  },
+  "iconBar": {
+    "price": "Preço baixo",
+    "wifi": "Wifi gratuito",
+    "confort": "Conforto Premium",
+    "ecologic": "-85% CO2",
+    "priceBR": "Preço baixo",
+    "wifiBR": "Wifi gratuito",
+    "confortBR": "Conforto Premium",
+    "ecologicBR": "-85% CO2"
+  },
+  "manageYourBooking": {
+    "header": "Gerir a sua reserva",
+    "tabs": {
+      "haveAnAccount": "Tenho uma conta",
+      "haveBookingId": "Tenho uma reserva",
+      "lostBookingId": "Perdi a minha reserva"
+    },
+    "body": {
+      "haveAccount": {
+        "title": "Iniciar sessão para gerir reserva",
+        "signUp": "Registar-se",
+        "emailAddress": "Endereço de E-Mail",
+        "password": "Palavra-chave",
+        "forgotPassword?": "Esqueci-me da palavra-chave?",
+        "signIn": "Iniciar Sessão",
+        "or": "ou",
+        "signInMobile": "Iniciar sessão com telemóvel"
+      },
+      "haveBooking": {
+        "title": "Inserir a sua reserva e E-Mail para ver a sua reserva",
+        "bookingID": "Identificador da reserva",
+        "information": "Endereço de email para onde a confirmação de E-Mail foi enviado",
+        "submit": "Submeter"
+      },
+      "lostBooking": {
+        "origin": "Origem",
+        "destination": "Destino",
+        "departDate": "Data de partida",
+        "departTime": "Horário de partida"
+      },
+      "messages": {
+        "noBookingFound": "Reserva não encontrada com o email e id fornecidos",
+        "unknownError": "Ocorreu um erro desconhecido, favor tente de novo mais tarde."
+      }
+    },
+    "cantManage": {
+      "title": "Entre na sua conta",
+      "description": "Para gerir seus bilhetes,\nentre na sua conta :)"
+    }
+  },
+  "mobileApp": {
+    "header": "Faça download da nossa aplicação"
+  },
+  "newSearch": {
+    "main": {
+      "inputPlaceholder": "Cidade, paragem",
+      "searchButton": "Pesquisar bilhete",
+      "cantChangeLocation": "Não é possível alterar a origem nem o destino da sua viagem"
+    },
+    "chip": {
+      "oneWay": "Ida",
+      "roundTrip": "Ida e volta"
+    },
+    "mobileSidebar": {
+      "inputPlaceholder": "Cidade, paragem",
+      "titleOrigin": "Escolha a origem",
+      "titleDestination": "Escolha o destino"
+    },
+    "emptySearchMessage": "Não há viagens com os critérios informados. Tente com outros filtros."
+  },
+  "paymentMethods": {
+    "header": "Métodos de pagamento",
+    "creditCard": "Cartão de crédito",
+    "googlePay": "Google Pay",
+    "mbway": "MBWay",
+    "payBy": "Pague com",
+    "cardOwner": "Nome Gravado",
+    "creditNumber": "Número do Cartão",
+    "expiryDate": "Data de Expiração",
+    "cvc": "CVC",
+    "rememberForNextTime": "Guardar método de pagamento",
+    "delete": "Eliminar",
+    "payWithOtherCard": "Pagar com outro cartão",
+    "invoice": {
+      "needAnInvoice": "Fatura"
+    },
+    "multibanco": "Multibanco"
+  },
+  "paymentStatus": {
+    "back": {
+      "mainPage": "Voltar à Pagina Inicial",
+      "order": "Voltar à sua Reserva",
+      "creditCard": "Voltar aos Métodos de Pagamento"
+    },
+    "details": {
+      "paymentType": {
+        "title": "Método de pagamento",
+        "label": {
+          "PaymentMethods::CreditCard": "Cartão de Crédito ({{creditCardBrand}} {{number}})",
+          "PaymentMethods::Multibanco": "Multibanco",
+          "PaymentMethods::GooglePay": "Google Pay",
+          "PaymentMethods::MBWay": "MB Way"
+        }
+      },
+      "transactionID": "Número de Transação",
+      "amount": {
+        "processing": "Montante Processado",
+        "paid": "Montante Pago",
+        "multibancoAmount": "Montante"
+      },
+      "bookingId": "Número de reserva:",
+      "entity": "Entidade",
+      "reference": "Referência",
+      "expiresAt": "Expira em"
+    },
+    "refused": "Recusado",
+    "status": {
+      "successful": {
+        "title": "Parabéns!",
+        "subTitle": "Reservou as suas viagens com sucesso. Iremos enviar um email de confirmação.",
+        "creditCardSubTitle": "Adicionou um novo cartão com sucesso"
+      },
+      "pending": {
+        "title": "Pagamento pendente",
+        "subTitle": "O seu pagamento está a ser processado.\nIremos enviar um email de confirmação assim que o pagamento for finalizado.",
+        "multibancoSubTitle": "Foi enviado para o seu email os dados de pagamento. Assim que o mesmo for concluído receberá um email com a sua reserva.\nO pagamento pode ser efectuado através de multibanco ou do serviço online",
+        "entity": "Entidade",
+        "reference": "Referência",
+        "expiresAt": "Expira em"
+      },
+      "details": {
+        "title": "Pagamento pendente",
+        "subTitle": "O seu pagament está a ser processado.\nIremos enviar um email de confirmação assim que o pagamento for finalizado.",
+        "multibancoSubTitle": "O pagamento pode ser efectuado através de multibanco ou do serviço online",
+        "entity": "Entidade",
+        "reference": "Referência",
+        "expiresAt": "Expira em",
+        "reason": "Razão"
+      },
+      "failure": {
+        "title": "Falha no Pagamento",
+        "subTitle": "Falha na validação do pagamento, não foi cobrado nenhum montante.\nPor favor, tente novamente usando um método de pagamento diferente.",
+        "creditCardSubTitle": "Falha em adicionar um novo cartão. Tente novamente.",
+        "refundedSubTitle": "Houve uma falha no processamento da compra. Por favor contate o nosso suporte."
+      },
+      "expired": {
+        "title": "Falha no Pagamento",
+        "subTitle": "O tempo para pagar expirou",
+        "reason": "Motivo",
+        "reasonMessage": "Seu pagamento expirou"
+      }
+    },
+    "ticket": {
+      "co2Message": "Estamos a contribuir para um planeta mais sustentável.\n Somos uma empresa sem emissões de CO2.",
+      "date": "Data",
+      "time": "Horário",
+      "seat": "Lugar",
+      "name": "Nome",
+      "type": "Tipo"
+    }
+  },
+  "searchEngine": {
+    "addReturn": "Adicionar regresso",
+    "calendar": {
+      "selectDepartureDate": "Selecione a data de partida",
+      "selectReturnDate": "Selecione a data de regresso"
+    },
+    "currentLocation": "Localização atual",
+    "departDateLabel": "Partida",
+    "departDatePlaceholder": "Selecionar Data",
+    "destinationLabel": "Destino",
+    "destinationPlaceholder": "Selecione o seu destino",
+    "originLabel": "Origem",
+    "originPlaceholder": "Selecione a sua origem",
+    "passengers": {
+      "adult": "Adulto",
+      "adults": "Adultos",
+      "babies": "Bebé até 4 anos",
+      "children": "Crianças entre 5 e 12 anos",
+      "child": "Criança entre 5 e 12 anos"
+    },
+    "passengersLabel": "Passageiro(s)",
+    "popularOrigins": "Principais Origens",
+    "popularDestinations": "Principais Destinos",
+    "returnDateLabel": "Regresso",
+    "returnDatePlaceholder": "Selecionar Data",
+    "submit": "Compre o seu bilhete",
+    "traveler": {
+      "keyWithCount": "{{count}} Passageiro",
+      "keyWithCount_plural": "{{count}} Passageiros"
+    }
+  },
+  "searchResult": {
+    "bestOption": "Melhor escolha",
+    "samePrice": "Mesmo Valor",
+    "operator": "Operado por:",
+    "title": {
+      "departure": "Selecione Origem",
+      "return": "Selecione Destino",
+      "priceLabel": "Preço total para {{count}} passageiro",
+      "priceLabel_plural": "Preço total para {{count}} passageiros"
+    },
+    "selectTrip": "Selecione esta viagem",
+    "LastTriplabel1": "Apenas ",
+    "LastTripLabel2": " bilhetes a este preço",
+    "FullTrip": "Não disponível",
+    "reserve": "Reservar {{count}} lugar",
+    "reserve_plural": "Reservar {{count}} lugares",
+    "from": "Origem",
+    "to": "Destino",
+    "departs": "Data da Partida {{date}}",
+    "filters": {
+      "title": "Filtros",
+      "departureTime": "Hora da partida",
+      "arrivalTime": "Hora da chegada",
+      "seatType": "Tipo de Lugar"
+    },
+    "sortBy": {
+      "cheapest": "Preço mais barato",
+      "earliest": "Partida mais cedo",
+      "shortest": "Duração mais curta"
+    },
+    "amenities": {
+      "title": "Serviços a bordo",
+      "wifi": "WiFi",
+      "toilet": "WC",
+      "powerOutlets": "Lugares com USB"
+    },
+    "stopsModal": {
+      "title": "Paragens e mudanças de autocarro",
+      "duration": "Duração {{timeDifference}}, {{count}} mudança de autocarro",
+      "duration_plural": "Duração {{timeDifference}}, {{count}} mudanças de autocarro",
+      "oneWayTicket": "Preço da ida para 1 adulto",
+      "selectTrip": "Selecione esta viagem",
+      "closeModal": "Fechar"
+    },
+    "change": "Espera, {{time}}",
+    "showStop": "Mostrar paragens",
+    "sortedBy": "Ordenar por",
+    "details": "Detalhes",
+    "stationBlock": {
+      "switch": "Mudança"
+    }
+  },
+  "sidebar": {
+    "hello": "Olá",
+    "myTickets": "Os meus bilhetes",
+    "booking": "Gerir minha reserva",
+    "signIn": "Iniciar sessão",
+    "buy": "Comprar bilhete",
+    "helplink": "Ajuda",
+    "rental": "Alugueres"
+  },
+  "stopsPage": {
+    "title": "Onde embarcar",
+    "seeInMaps": "Ver no mapa",
+    "inputLabel": "Encontre a sua paragem",
+    "inputPlaceholder": "Cidade, paragem"
+  },
+  "tripDetails": {
+    "bus": {
+      "seatReservation": "Reservar lugar",
+      "to": "para",
+      "reserveSeat": "Reserve o seu lugar",
+      "confirm": "Confirmar",
+      "floor": "Piso {{floor}}",
+      "assignSeatRandomly": "Alocar lugar aleatoriamente (+€{{cost}})",
+      "seatReservedOf": "{{count}} de {{totalPax}} assentos reservados",
+      "seatReservedOf_plural": "{{count}} de {{totalPax}} assentos reservados",
+      "seatReserved": "{{count}} lugar reservado (+€{{cost}})",
+      "seatReserved_plural": "{{count}} lugares reservados (+€{{cost}})",
+      "legend": {
+        "reservedSeat": "Lugar reservado",
+        "selectedSeat": "Lugar selecionado"
+      },
+      "extras": {
+        "table": "Mesa"
+      }
+    }
+  },
+  "userBookings": {
+    "header": "As Minhas Reservas",
+    "options": {
+      "Upcoming": "Próximas",
+      "Completed": "Completas",
+      "Cancelled": "Canceladas"
+    },
+    "noBookingYet": "Sem Reservas",
+    "bookFirst": "Reserve a sua viagem",
+    "to": "para",
+    "tickets": {
+      "header": "Reserva",
+      "paidValue": "Valor Pago",
+      "saveTicket": "Guardar Bilhete",
+      "selectAll": "Selecionar todos",
+      "clear": "Limpar",
+      "totalTickets": "{{count}} Reserva",
+      "totalTickets_plural": "{{count}} Reservas",
+      "date": "Data",
+      "time": "Horário",
+      "seat": "Lugar",
+      "name": "Nome"
+    },
+    "dropdown": {
+      "alterBooking": "Alterar Reserva",
+      "alterTicket": "Alterar Ticket",
+      "cancelBooking": "Cancelar",
+      "boardingTicket": "Cartão Embarque"
+    },
+    "modal":{
+      "block1": "Quer mesmo ",
+      "block2": "a sua reserva?",
+      "block2a": "o seu bilhete?",
+      "alter": "alterar",
+      "cancel": "cancelar",
+      "yes": "Sim",
+      "no": "Não"
+
+    }
+  },
+  "userPaymentMethods": {
+    "header": "Métodos de Pagamento",
+    "addCreditCard": "Adicionar Cartão",
+    "addNewCreditCard": "Adicionar um novo Cartão",
+    "saveCreditCard": "Gravar cartão",
+    "savedCreditCard": "Cartão guardado",
+    "remove": "Remover",
+    "makeDefault": "Predefinir cartão",
+    "defaultCreditCard": "Cartão Predefinido",
+    "statement": "Você pode guardar o seu método de pagamento durante a sua próxima compra.",
+    "endingIn": "{{brand}} Acabado em {{summary}}",
+    "expiresOn": "Expira em {{date}}"
+  },
+  "userProfile": {
+    "header": "O meu perfil"
+  },
+  "whatsapp": {
+    "message": "Compre pelo WhatsApp"
+  },
+  "nextAvailableTrip": {
+    "Title": "Ligações disponíveis em:"
+  },
+  "alugueres" : {
+    "introduction":{
+      "title":"A GIPSYY, uma marca da empresa GuanaUrb, especializada no transporte coletivo de pessoas, em serviço ocasional ou regular especializado, como o transporte de colaboradores, prestadores de serviços, executivos, escolar e ou excursões e transfers.",
+      "Profissionalismo":"Profissionalismo",
+      "Disponibilidade":"Disponibilidade",
+      "Flexibilidade":"Flexibilidade",
+      "Service":"Serviços Dedicado"
+    },
+    "serviceIntroduction":{
+      "title":"Serviços",
+      "transRegular":"Transporte Regular e Ocasional",
+      "transEscolar":"Transporte Escolar e Empresarial",
+      "transTurismo":"Turismo e Excursões"
+    },
+    "transport":{
+      "title":"Frota",
+      "subTitle":"Contamos com uma frota recente com capacidades de 8 a 88 lugares e de acordo com todas as normas de segurança.",
+      "subHeader":"Os veículos contam com comodidades como:",
+      "bordo":"WC a bordo",
+      "arCondicionado":"Ar condicionado",
+      "wifi":"Wi-fi a bordo",
+      "cadeiras":"Cadeiras reclináveis",
+      "miniTurismo":"Mini Turismo",
+      "panoramico":"Panorâmico",
+      "doubler":"Double-decker",
+      "Tourismo":"Tourismo",
+      "Convecional":"Convecional"
+    },
+    "footer" : {
+      "Alugueres" : "Alugueres",
+      "Fretamento" : "Fretamento"
+    },
+    "form":{
+      "title":"Pedido de Cotação",
+      "details":"Detalhes da viagem",
+      "contato":"Detalhes Contacto",
+      "Resumo":"Resumo",
+      "localPartida":"Local de Partida",
+      "localDestino":"Local de Destino",
+      "adultos":"Adultos",
+      "crianca":"Crianças",
+      "passageiros":"Passagers",
+      "idaVolta":"Ida e Volta",
+      "tempo":"Tempo",
+      "distancia":"Distância",
+      "seguinte":"Seguinte",
+      "formContato":{
+        "nome":"Nome",
+        "apelido":"Apelido",
+        "email":"Endereço de e-mail",
+        "emailError":"E-mail incorreto, por favor insira um e-mail válido",
+        "telefone":"Telefone",
+        "comentario":"Comentários",
+        "faturacao":"Informação de faturação",
+        "nomeEmpresa":"Nome da empresa",
+        "nipc":"NIPC",
+        "morada":"Morada",
+        "numero":"Número",
+        "cidade":"Cidade",
+        "localidade":"Localidade",
+        "cod":"Código Postal",
+        "pais":"País",
+        "resume":"Resumo",
+        "tipoViagem":"Tipo de Viagem",
+        "origem":"Origem",
+        "destino":"Destino",
+        "dataPartida":"Data de Partida",
+        "distance":"Distância",
+        "time":"Tempo",
+        "passageiros":"Passageiros",
+        "adultos":"Adultos",
+        "crianca":"Crianças",
+        "confirme":"Confirmar",
+        "anterior":"Anterior",
+        "dadosContato":"Dados de contato",
+        "dadosFaturacao":"Dados da faturação",
+        "maisInformacao":"Mais informações",
+        "confirmarPedido":"Confirmar - Pedido de Cotação",
+        "concluido":"Concluído",
+        "pedidoEnviado":"O seu pedido foi submetido com sucesso!",
+        "entraremosContato":"Entraremos em contato com você o mais breve possível."
+      }
+    }
+  }
+}

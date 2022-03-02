@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 23 36">
+	<defs>
+		<path id="ffmcci7cxa" d="M0 0.004L22.001 0.004 22.001 34.186 0 34.186z">
+		</path>
+		<path id="g2mi9a1n2c" d="M0 0.004L11.001 0.004 11.001 34.186 0 34.186z">
+		</path>
+		<path id="u67iyx6xbe" d="M0.408 0.004L11.409 0.004 11.409 9.326 0.408 9.326z">
+		</path>
+		<path id="2hmp9m5sjg" d="M0 0.004L11.001 0.004 11.001 9.326 0 9.326z">
+		</path>
+	</defs>
+	<g fill="none" fill-rule="evenodd">
+		<g transform="translate(0 .81)">
+			<mask id="arj6d6i7lb" fill="#fff">
+				<use xlink:href="#ffmcci7cxa">
+				</use>
+			</mask>
+			<path fill="#B6DCFF" d="M20.999.004h-5.43c-.394 0-.752.231-.914.59-.646 1.436-2.08 2.363-3.655 2.363-1.572 0-3.006-.927-3.653-2.362-.162-.36-.52-.591-.915-.591h-5.43C.449.004 0 .452 0 1.005v32.18c0 .552.448 1.001 1.003 1.001h5.43c.394 0 .752-.231.914-.59.646-1.436 2.08-2.363 3.653-2.363 1.575 0 3.008.927 3.655 2.363.161.359.52.59.914.59h5.43c.554 0 1.002-.449 1.002-1.001V1.005c0-.553-.448-1.001-1.002-1.001" mask="url(#arj6d6i7lb)">
+			</path>
+		</g>
+		<g transform="translate(0 .81)">
+			<mask id="j3njb2puyd" fill="#fff">
+				<use xlink:href="#g2mi9a1n2c">
+				</use>
+			</mask>
+			<path fill="#D7EEFF" d="M11 2.957c-1.573 0-3.007-.927-3.653-2.363-.162-.359-.52-.59-.914-.59h-5.43C.448.004 0 .452 0 1.005v32.18c0 .553.449 1.001 1.002 1.001h5.43c.395 0 .753-.23.915-.59.646-1.436 2.08-2.364 3.654-2.364V2.957z" mask="url(#j3njb2puyd)">
+			</path>
+		</g>
+		<g transform="translate(10.593 .81)">
+			<mask id="iyic0ezuqf" fill="#fff">
+				<use xlink:href="#u67iyx6xbe">
+				</use>
+			</mask>
+			<path fill="#0B4178" d="M11.409 9.326v-8.32c0-.554-.449-1.002-1.002-1.002H4.976c-.394 0-.752.232-.914.59C3.416 2.03 1.982 2.958.408 2.958v6.369H11.41z" mask="url(#iyic0ezuqf)">
+			</path>
+		</g>
+		<g transform="translate(0 .81)">
+			<mask id="ryvw229rrh" fill="#fff">
+				<use xlink:href="#2hmp9m5sjg">
+				</use>
+			</mask>
+			<path fill="#2880C9" d="M11 2.957c-1.573 0-3.007-.927-3.653-2.363-.162-.359-.52-.59-.914-.59h-5.43C.448.004 0 .452 0 1.005v8.32h11V2.958z" mask="url(#ryvw229rrh)">
+			</path>
+		</g>
+	</g>
+</svg>

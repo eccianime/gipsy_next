@@ -1,0 +1,77 @@
+{
+  "adyen": {
+    "general": "Transaction error",
+    "Refused": "Refused"
+  },
+  "checkout": {
+    "Errors::ReservationsExpired": "Reservation expired",
+    "Errors::PaymentInvalidStatus": "Payment invalid status",
+    "Errors::TicketsNotReserved": "Tickets not reserved",
+    "Errors::TripsAmountLimitReached": "Trips amount limit reached",
+    "Errors::PhoneAbsent": "Phone absent"
+  },
+  "discountCode": {
+    "noSpecialChar": "No special characters"
+  },
+  "empty": {
+    "searchResult": "No connections available",
+    "paymentDetails": "No Payment Details data yet.",
+    "creditCard": "You have no saved credit card"
+  },
+  "invalid": "Invalid {{- field}}",
+  "length": "{{field}} must be at least {{length}} characters",
+  "missing": "No data provided",
+  "modals": {
+    "creditCard": {
+      "delete": {
+        "question": "Are you sure?",
+        "message": "Do you really want to delete the last card? This process cannot be undone."
+      },
+      "deleteAndAdd": {
+        "question": "You reached the stored cards limit",
+        "message": "To add a new one, we will remove the older one. Do you agree?"
+      }
+    }
+  },
+  "mustBeNumber": "{{field}} must be a number!",
+  "notFound": "User doesn't exist",
+  "passwordConfirm": "Passwords must match",
+  "paymentStatus": {
+    "CVC Declined": "CVC Declined",
+    "Authentication failed": "Authentication failed"
+  },
+  "required": "{{field}} is required!",
+  "requiredOr": "{{field}} or {{secondField}} is required",
+  "reservation": {
+    "Errors::PriceHasChanged": "Price has changed"
+  },
+  "somethingWentWrong": "Something went wrong. Please contact with support or try again later.",
+  "user": {
+    "email": {
+      "invalid": "Please enter a valid email address (e.g. name@email.com)",
+      "taken": "Email has already been taken"
+    },
+    "password": {
+      "invalid": "Please enter a valid password (8 characters and 1 number)"
+    },
+    "phoneNumber": {
+      "invalid": "Must be only numbers",
+      "notFound": "User with the phone number doesn't exist",
+      "taken": "Phone has already been taken"
+    },
+    "countryCode": {
+      "invalid": "Please provide correct country"
+    },
+    "cpf": {
+      "invalid": "Please input 11 digits CPF number, e.g. nnn.nnn.nnn-nn",
+      "invalid1": "Por favor introduza os 11 dígitos do seu cpf corretamente"
+    },
+    "birthDate": {
+      "invalid": "Date of Birth can’t be in the future",
+      "inFuture": "Date of Birth can't be in the future"
+    }
+  },
+  "validationCode": {
+    "sentAlready": "Confirmation code has already sent"
+  }
+}

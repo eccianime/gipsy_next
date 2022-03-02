@@ -1,0 +1,74 @@
+{
+  "creditCard": {
+    "brands": {
+      "mc": "MasterCard",
+      "visa": "Visa",
+      "amex": "American Express",
+      "cartebancaire": "Cartão de Débito",
+      "maestro": "Maestro",
+      "giropay": "GiroPay",
+      "bcmc": "Bancontact card",
+      "eps": "EPS",
+      "ideal": "iDEAL",
+      "unionpay": "UnionPay",
+      "visadankort": "Visa Dankort"
+    }
+  },
+  "discountCode": {
+    "discount": "Valor de desconto"
+  },
+  "invoice": {
+    "fullName": "Nome Completo",
+    "address": "Morada",
+    "country": "País",
+    "postalCode": "Codigo Postal",
+    "taxId": "Numero de Contribuinte",
+    "cityId": "Cidade"
+  },
+  "passengers": {
+    "passenger": "Passageiro {{number}} ({{type}})",
+    "adult": "Adulto",
+    "child": "Criança",
+    "baby": "Bebé"
+  },
+  "paymentMethods": {
+    "CreditCard": "Cartão de Crédito",
+    "GooglePay": "Google Pay"
+  },
+  "seatType": {
+    "comfort": "Conforto",
+    "executive": "Executivo",
+    "half-bed": "Meia-Cama",
+    "bed": "Cama"
+  },
+  "staticPage": {
+    "updatedAt": "Última atualização em"
+  },
+  "user": {
+    "email": "Endereço de E-Mail",
+    "password": "Palavra-chave",
+    "passwordConfirm": "Confirmação",
+    "firstName": "Primeiro Nome",
+    "lastName": "Último Nome",
+    "birthDate": "Data de Nascimento",
+    "country": "País",
+    "addressLine1": "Endereço Postal",
+    "addressLine2": "Endereço Postal 2",
+    "phone": "Telefone",
+    "city": "Cidade",
+    "zipCode": "Código Postal",
+    "phoneNumber": "Telefone",
+    "documentType": "Documento Identificação",
+    "documentNumber": "Número do Documento",
+    "cpf": "NIF",
+    "passport": "Número do Passaporte",
+    "emailConfirmation": "E-Mail de Confirmação",
+    "smsConfirmation": "SMS de Confirmação",
+    "id": "Número de Identificação",
+    "other": "Outro Número",
+    "optional": " {{fieldName}} (opcional)"
+  },
+  "travelType": {
+    "direct": "Viajem direta"
+  }
+}

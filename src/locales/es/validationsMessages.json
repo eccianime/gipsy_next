@@ -1,0 +1,9 @@
+{
+  "discountCode": {
+    "InsufficientOrderPrice": "Código caducado",
+    "NotFound": "Codigo invalido"
+  },
+  "has already been taken": "{{field}} ya está siendo utilizado",
+  "emailExist": "Esse e-mail já está cadastrado",
+  "phoneExist": "Esse número de telefone já está cadastrado"
+}

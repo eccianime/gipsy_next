@@ -1,0 +1,18 @@
+{
+  "discountCode": {
+    "InsufficientOrderPrice": "O cupão já não é válido",
+    "NotFound": "Ops! não temos esse PROMOCODE registado, confirma se inseriste bem o código?",
+    "CustomerNotSignedIn": "Ops! Precisamos que faças o Login para teres acesso a esta promoção. Faz o login e tenta novamente",
+    "NotANewCustomer": "As nossas desculpas, mas este PROMOCODE apenas é válido para a tua primeira compra.",
+    "NotARoundTrip": "Seleciona uma viagem de ida e volta para conseguires o desconto",
+    "Date of sale outside the applicable limits": "Ops! A promoção acabou! 🙁, continua atento(a) às nossas redes socias, teremos mais campanhas deste tipo.",
+    "Date of travel outside the applicable limits": "Olá! Esta campanha tem data própria de utilização. Seleciona uma viagem dentro do período de validade",
+    "coupon limit exceeded per travel": "Olá, tenta outro horário, já não há mais lugares promocionais disponíveis neste horário",
+    "coupon limit exceeded per sale": "Olá, infelizmente acabaram os lugares promocionais!",
+    "Date not allowed": "Olá, este PROMOCODE não é valido para esta data, por favor tenta outra data",
+    "MaximumUseTimes": "Ops! O PROMOCODE já foi utilizado muitas vezes. Utiliza outro PROMOCODE válido."
+  },
+  "has already been taken": "{{field}} já está ocupado",
+  "emailExist": "Esse e-mail já está cadastrado",
+  "phoneExist": "Esse número de telefone já está cadastrado"
+}

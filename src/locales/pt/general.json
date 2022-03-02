@@ -1,0 +1,14 @@
+{
+  "withCurrency": "€{{number}}",
+  "from": "Desde",
+  "readMore": "Ler mais",
+  "pay": "Pagar",
+  "cancel": "Cancelar",
+  "ok": "Ok",
+  "success": {
+    "title": "Successo",
+    "deleteCard": "Cartão excluído com sucesso",
+    "addCard": "Cartão adicionado com sucesso",
+    "defaultCard": "Cartão default atualizado"
+  }
+}

@@ -1,0 +1,565 @@
+{
+  "airPolution": {
+    "header": "Travel with us without impacting the environment. All your CO2 emissions will be offset by us!",
+    "link": "Check out more, join our cause"
+  },
+  "auth": {
+    "signUp": {
+      "header": "Create Account",
+      "viaMobilePhone": "Sign Up with Mobile Number",
+      "viaEmail": "Sign Up with Email Address",
+      "clickAgreement": "By clicking on sign up, I agreed on",
+      "termsAndConditions": "Terms & Conditions",
+      "signUp": "Sign Up",
+      "login": "Login",
+      "passport": "Passport",
+      "id": "ID"
+    },
+    "confirmation": {
+      "header": "Confirm your {{field}}",
+      "weSent": "We sent you a confirmation code to:",
+      "checkCode": "Please check your {{field}} and input the code below to complete the sign up process",
+      "validationCode": "Validation Code",
+      "validated": "Validated",
+      "invalid": "Invalid Code",
+      "didntGet": "Didn’t get the code?",
+      "resendEmail": "Resend Code",
+      "retryResend": "Retry resend in {{seconds}} Seconds"
+    },
+    "signUpCompleted": {
+      "header": "Sign up completed",
+      "description": "Registration has been completed, you may login now to use Gipsyy service.",
+      "backToMain": "Back to main page",
+      "Login": "Login"
+    },
+    "forgotPassword": {
+      "header": "Forgot Password?",
+      "description": "Please enter your login email. We will send you a reset password link.",
+      "button": "Reset Password"
+    },
+    "confirmForgotPassword": {
+      "header": "Reset Password",
+      "description": "Please enter your new password with at least 8 characters.",
+      "button": "Reset Password"
+    },
+    "validateForgotPassword": {
+      "header": "Validation Code",
+      "description": "Please input the validation code sent to {{field}}"
+    },
+    "signIn": {
+      "header": "Sign In"
+    },
+    "signInMobile": {
+      "header": "Sign in with mobile number",
+      "description": "Input your phone number, we will send you a text message with a verification code",
+      "button": "Send me Validation Code"
+    }
+  },
+  "topAd": {
+    "knowOurDestiny": "Know our destinations!"
+  },
+  "carousel": {
+    "header": "Top destinations",
+    "displayAll": "View all destinations"
+  },
+  "checkout": {
+    "checkbox": "I accept to receive offers and news on my email",
+    "main": {
+      "back": "Back",
+      "passengerInformation": "Passenger information",
+      "yourTicket": "Your ticket",
+      "extras": "Extras"
+    },
+    "ticket": {
+      "departureLabel": "Departure",
+      "returnLabel": "Return",
+      "subTotalWithoutTax": "Sub-total (With tax):",
+      "seatReservation": "Seat reservation",
+      "total": "Total"
+    },
+    "extras": {
+      "seatReservation": "Seat Reservation",
+      "from": "from",
+      "reserveSeat": "Reserve your seat",
+      "ensureWhereYouWillSeat": "Ensure where you will be sitting",
+      "selectSeats": "Select seats"
+    },
+    "messages": {
+      "countdownFinished": "Reservation process reached time limit",
+      "multibancoDepartureAt": "Multibanco payment is not allowed"
+    }
+  },
+  "cookies": {
+    "accept": "Accept",
+    "text": "We use cookies to improve your experience and personalise our content offering. By using this site, you agree to the use of cookies.",
+    "privacy": "Privacy Policy"
+  },
+  "discountCode": {
+    "placeholder": "Discount code",
+    "button": "Apply"
+  },
+  "faqs": {
+    "pageTitle": "Frequently asked questions"
+  },
+  "footer": {
+    "usefulLinks": "Userful Links",
+    "legal": "Legal",
+    "social": "Social networks",
+    "faq": "FAQ",
+    "newsletterLabel": "Discounts, new destinations and more!",
+    "newsletterPlaceholder": "Email address",
+    "newsletterFailureMessage": "An error has occurred while subscribing newsletter!",
+    "newsletterSuccessMessage": "You are subscribed!",
+    "copyrights": "Gipsyy All right reserved"
+  },
+  "header": {
+    "menu": "Menu",
+    "help": "Help",
+    "stopsInformation": "Stops information",
+    "faqs": "Frequently asked questions",
+    "userMenu": {
+      "myBookings": "My Bookings",
+      "userProfile": "User Profile",
+      "creditCards": "Credit Cards",
+      "logout": "Logout"
+    }
+  },
+  "help": {
+    "title": "How can we help you?",
+    "searchPlaceholder": "Search",
+    "searchResult": {
+      "header": "Search result",
+      "resultNumber": "{{number}} results for \"{{query}}\""
+    },
+    "onlineSupport": "Online Support",
+    "schedule": "Daily from 09:00 to 19:00.",
+    "speakByText": "Let's Talk",
+    "contactUs": "Get in touch with us by our Whatsapp",
+    "whatsappText": "Go to Whatsapp",
+    "whatsappNumber": "351913568693"
+  },
+  "iconBar": {
+    "price": "Low Prices",
+    "wifi": "Free Wi-FI",
+    "confort": "Premium Comfort",
+    "ecologic": "-85% CO2",
+    "priceBR": "Low Prices",
+    "wifiBR": "Free Wi-FI",
+    "confortBR": "Premium Comfort",
+    "ecologicBR": "-85% CO2"
+  },
+  "manageYourBooking": {
+    "header": "Manage your booking",
+    "tabs": {
+      "haveAnAccount": "I have an account",
+      "haveBookingId": "I have the booking ID",
+      "lostBookingId": "I lost my booking ID"
+    },
+    "body": {
+      "haveAccount": {
+        "title": "Sign in to manage booking",
+        "signUp": "Sign Up",
+        "emailAddress": "Email Address",
+        "password": "Password",
+        "forgotPassword?": "Forgot Password?",
+        "signIn": "Sign In",
+        "or": "or",
+        "signInMobile": "Sign In with Mobile Number"
+      },
+      "haveBooking": {
+        "title": "Input your booking ID and email address to view your booking",
+        "bookingID": "Booking ID",
+        "information": "Address to which the confirmation email was sent",
+        "submit": "Submit"
+      },
+      "lostBooking": {
+        "origin": "Origin",
+        "destination": "Destination",
+        "departDate": "Departure date",
+        "departTime": "Departure time"
+      }
+    },
+    "messages": {
+      "noBookingFound": "No booking found matching provided email and booking id",
+      "unknownError": "An unknown error was found, please try again later."
+    },
+    "cantManage": {
+      "title": "Sign in into your account",
+      "description": "To manage your tickets, sign in into\nyour account or create one really fast :)"
+    }
+  },
+  "mobileApp": {
+    "header": "Download our app"
+  },
+  "newSearch": {
+    "main": {
+      "inputPlaceholder": "City, station",
+      "searchButton": "Search ticket",
+      "cantChangeLocation": "Your trip's origin and destination can't be changed"
+    },
+    "chip": {
+      "oneWay": "One way",
+      "roundTrip": "Round trip"
+    },
+    "mobileSidebar": {
+      "inputPlaceholder": "City, station",
+      "titleOrigin": "Choose your origin",
+      "titleDestination": "Choose your destination"
+    },
+    "emptySearchMessage": "No results matching your search please try again with other search terms"
+  },
+  "paymentMethods": {
+    "header": "Payment methods",
+    "creditCard": "Credit Card",
+    "googlePay": "Google Pay",
+    "mbway": "MBWay",
+    "payBy": "Pay by",
+    "cardOwner": "Card Owner",
+    "creditNumber": "Credit Number",
+    "expiryDate": "Expiry Date",
+    "cvc": "CVC",
+    "rememberForNextTime": "Remember for next time",
+    "delete": "Delete",
+    "payWithOtherCard": "Pay with another credit card",
+    "invoice": {
+      "needAnInvoice": "I need an invoice"
+    },
+    "multibanco": "Multibanco"
+  },
+  "paymentStatus": {
+    "back": {
+      "mainPage": "Back to main page",
+      "order": "Back to your order",
+      "creditCard": "Back to list of credit cards"
+    },
+    "details": {
+      "paymentType": {
+        "title": "Payment type",
+        "label": {
+          "PaymentMethods::CreditCard": "Credit Card ({{creditCardBrand}} {{number}})",
+          "PaymentMethods::Multibanco": "Multibanco",
+          "PaymentMethods::GooglePay": "Google Pay",
+          "PaymentMethods::MBWay": "MB Way"
+        }
+      },
+      "transactionID": "Transaction ID",
+      "amount": {
+        "processing": "Processing Amount",
+        "paid": "Amount Paid",
+        "multibancoAmount": "Amount"
+      },
+      "bookingId": "Your booking ID is:",
+      "entity": "Entity",
+      "reference": "Reference",
+      "expiresAt": "Expires at"
+    },
+    "refused": "Refused",
+    "status": {
+      "successful": {
+        "title": "Congratulations!",
+        "subTitle": "You have booked your trips successfully. We will send you a confirmation email.",
+        "creditCardSubTitle": "You have added new credit card successfully"
+      },
+      "pending": {
+        "title": "Payment pending",
+        "subTitle": "Your payment is being processed.\nWhen your payment is completed we will send you an confirmation email.",
+        "multibancoSubTitle": "Your payment details have been sent to your email address. As soon as it is completed you will receive an email with your reservation.\nPayment can be made by ATM or online service",
+        "entity": "Entity",
+        "reference": "Reference",
+        "expiresAt": "Expires at"
+      },
+      "details": {
+        "title": "Payment pending",
+        "subTitle": "Your payment is being processed.\nWhen your payment is completed we will send you an confirmation email.",
+        "multibancoSubTitle": "Multibanco payment may be completed using ATM or the online web service",
+        "entity": "Entity",
+        "reference": "Reference",
+        "expiresAt": "Expires at",
+        "reason": "Reason"
+      },
+      "failure": {
+        "title": "Payment Failure",
+        "subTitle": "Payment verification failed, you haven't been charged anything.\nPlease try again or use a different payment method.",
+        "creditCardSubTitle": "Adding new credit card failed. Please try again.",
+        "refundedSubTitle": "There was a problem while processing your payment. Please contact our support."
+      },
+      "expired": {
+        "title": "Payment Failure",
+        "subTitle": "Payment expired.",
+        "reason": "Reason",
+        "reasonMessage": "Your payment expired"
+      }
+    },
+    "ticket": {
+      "co2Message": "We are contributing to a greener planet.\nThis is a CO2 emissions free company.",
+      "date": "Date",
+      "time": "Time",
+      "seat": "Seat",
+      "name": "Name",
+      "type": "Type"
+    }
+  },
+  "searchEngine": {
+    "addReturn": "Add return",
+    "departDateLabel": "Depart",
+    "departDatePlaceholder": "Select Date",
+    "returnDateLabel": "Return",
+    "returnDatePlaceholder": "Select Date",
+    "originLabel": "From",
+    "originPlaceholder": "Select origin",
+    "passengersLabel": "Passenger(s)",
+    "submit": "Buy your ticket",
+    "destinationLabel": "To",
+    "destinationPlaceholder": "Select destination",
+    "traveler": {
+      "keyWithCount": "{{count}} Traveler",
+      "keyWithCount_plural": "{{count}} Travelers"
+    },
+    "calendar": {
+      "selectDepartureDate": "Select departure date",
+      "selectReturnDate": "Select return date"
+    },
+    "passengers": {
+      "adult": "Adult",
+      "adults": "Adult",
+      "babies": "Baby till 4 years",
+      "children": "Childs 5 to 12 years",
+      "child": "Child 5 to 12 years"
+    },
+    "currentLocation": "Current Location",
+    "popularOrigins": "Popular Origins",
+    "popularDestinations": "Popular Destinations"
+  },
+  "searchResult": {
+    "bestOption": "Today's Best Option",
+    "samePrice": "Same Price",
+    "operator": "Operated By:",
+    "title": {
+      "departure": "Select Departure",
+      "return": "Select Return",
+      "priceLabel": "Total price for {{count}} passenger",
+      "priceLabel_plural": "Total price for {{count}} passengers"
+    },
+    "selectTrip": "Select this trip",
+    "reserve": "Reserve {{count}} seat",
+    "reserve_plural": "Reserve {{count}} seats",
+    "LastTriplabel1": "Just ",
+    "LastTripLabel2": " seats available",
+    "FullTrip": "Not available",
+    "from": "From",
+    "to": "to",
+    "departs": "Departs {{date}}",
+    "filters": {
+      "title": "Filters",
+      "departureTime": "Departure Time",
+      "arrivalTime": "Arrival Time",
+      "seatType": "Seat Type"
+    },
+    "sortBy": {
+      "cheapest": "Cheapest Price",
+      "earliest": "Earliest Departure",
+      "shortest": "Shortest Duration"
+    },
+    "amenities": {
+      "title": "Amenities",
+      "wifi": "Wifi",
+      "toilet": "Toilet",
+      "powerOutlets": "Power outlets"
+    },
+    "stopsModal": {
+      "title": "Trip stops and transfer",
+      "duration": "Duration {{timeDifference}}, {{count}} change",
+      "duration_plural": "Duration {{timeDifference}}, {{count}} changes",
+      "oneWayTicket": "One-way total price for 1 adult",
+      "selectTrip": "Select this trip",
+      "closeModal": "Close"
+    },
+    "change": "Change, {{time}}",
+    "showStop": "Show stops",
+    "sortedBy": "Sorted by",
+    "details": "Details",
+    "stationBlock": {
+      "switch": "Switch"
+    }
+  },
+  "sidebar": {
+    "hello": "Hello",
+    "myTickets": "My tickets",
+    "booking": "Manage your booking",
+    "signIn": "Sign In",
+    "buy": "Buy your ticket",
+    "helplink": "Help"
+  },
+  "stopsPage": {
+    "title": "Stops information",
+    "seeInMaps": "See on map",
+    "inputLabel": "Find your stop",
+    "inputPlaceholder": "City, stop"
+  },
+  "tripDetails": {
+    "bus": {
+      "seatReservation": "Seat Reservation",
+      "to": "to",
+      "reserveSeat": "Reserve your seat",
+      "confirm": "Confirm",
+      "floor": "Floor {{floor}}",
+      "assignSeatRandomly": "Assign Seat Randomly (+€{{cost}})",
+      "seatReservedOf": "{{count}} of {{totalPax}} seat reserved",
+      "seatReservedOf_plural": "{{count}} of {{totalPax}} seats reserved",
+      "seatReserved": "{{count}} seat reserved (+€{{cost}})",
+      "seatReserved_plural": "{{count}} seats reserved (+€{{cost}})",
+      "legend": {
+        "reservedSeat": "Reserved seat",
+        "selectedSeat": "Selected seat"
+      },
+      "extras": {
+        "table": "Table"
+      }
+    }
+  },
+  "userPaymentMethods": {
+    "header": "Credit card",
+    "addCreditCard": "Add credit card",
+    "addNewCreditCard": "Add new credit card",
+    "saveCreditCard": "Save credit card",
+    "savedCreditCard": "Saved credit cards",
+    "remove": "Remove",
+    "makeDefault": "Make default",
+    "defaultCreditCard": "Default credit card",
+    "statement": "You can save a payment method during your next purchase.",
+    "endingIn": "{{brand}} Ending in {{summary}}",
+    "expiresOn": "Expires on {{date}}"
+  },
+  "userBookings": {
+    "header": "My booking",
+    "options": {
+      "Upcoming": "Upcoming",
+      "Completed": "Completed",
+      "Cancelled": "Cancelled"
+    },
+    "noBookingYet": "No Booking Yet",
+    "bookFirst": "Book Your First Ticket",
+    "to": "to",
+    "tickets": {
+      "header": "Booking",
+      "paidValue": "Paid Value",
+      "saveTicket": "Save Ticket",
+      "selectAll": "Select All",
+      "clear": "Clear",
+      "totalTickets": "{{count}} Ticket in total",
+      "totalTickets_plural": "{{count}} Tickets in total",
+      "date": "Date",
+      "time": "Time",
+      "seat": "Seat",
+      "name": "Name"
+    },
+    "dropdown": {
+      "alterBooking": "Alter Booking",
+      "alterTicket": "Alter Ticket",
+      "cancelBooking": "Cancel",
+      "boardingTicket": "Boarding Ticket"
+    },
+    "modal":{
+      "block1": "Are You Sure You Want to ",
+      "block2": "Your Booking?",
+      "block2a": "Your Ticket?",
+      "alter": "Alter",
+      "cancel": "Cancel",
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "userProfile": {
+    "header": "My Profile"
+  },
+  "whatsapp": {
+    "message": "Buy with WhatsApp"
+  },
+  "nextAvailableTrip": {
+    "Title": "Next Available Trip:"
+  },
+  "alugueres" : {
+    "introduction":{
+      "title":"A GIPSYY, uma marca da empresa GuanaUrb, especializada no transporte coletivo de pessoas, em serviço ocasional ou regular especializado, como o transporte de colaboradores, prestadores de serviços, executivos, escolar e ou excursões e transfers.",
+      "Profissionalismo":"Profissionalismo",
+      "Disponibilidade":"Disponibilidade",
+      "Flexibilidade":"Flexibilidade",
+      "Service":"Serviços Dedicado"
+    },
+    "serviceIntroduction":{
+      "title":"Serviços",
+      "transRegular":"Transporte Regular e Ocasional",
+      "transEscolar":"Transporte Escolar e Empresarial",
+      "transTurismo":"Turismo e Excursões"
+    },
+    "transport":{
+      "title":"Frota",
+      "subTitle":"Contamos com uma frota recente com capacidades de 8 a 88 lugares e de acordo com todas as normas de segurança.",
+      "subHeader":"Os veículos contam com comodidades como:",
+      "bordo":"WC a bordo",
+      "arCondicionado":"Ar condicionado",
+      "wifi":"Wi-fi a bordo",
+      "cadeiras":"Cadeiras reclináveis",
+      "miniTurismo":"Mini Turismo",
+      "panoramico":"Panorâmico",
+      "doubler":"Double-decker",
+      "Tourismo":"Tourismo",
+      "Convecional":"Convencional"
+    },
+    "footer" : {
+      "Alugueres" : "Alugueres",
+      "Fretamento" : "Fretamento"
+    },
+    "form":{
+      "title":"Pedido de Cotação",
+      "details":"Detalhes da viagem",
+      "contato":"Detalhes Contacto",
+      "Resumo":"Resumo",
+      "localPartida":"Local de Partida",
+      "localDestino":"Local de Destino",
+      "adultos":"Adultos",
+      "crianca":"Crianças",
+      "passageiros":"Passagers",
+      "idaVolta":"Ida e Volta",
+      "tempo":"Tempo",
+      "distancia":"Distância",
+      "seguinte":"Seguinte",
+      "formContato":{
+        "nome":"Nome",
+        "apelido":"Apelido",
+        "email":"Endereço de e-mail",
+        "emailError":"E-mail incorreto, por favor insira um e-mail válido",
+        "telefone":"Telefone",
+        "comentario":"Comentários",
+        "faturacao":"Informação de faturação",
+        "nomeEmpresa":"Nome da empresa",
+        "nipc":"NIPC",
+        "morada":"Morada",
+        "numero":"Número",
+        "cidade":"Cidade",
+        "localidade":"Localidade",
+        "cod":"Código Postal",
+        "pais":"País",
+        "resume":"Resumo",
+        "tipoViagem":"Tipo de Viagem",
+        "origem":"Origem",
+        "destino":"Destino",
+        "dataPartida":"Data de Partida",
+        "distance":"Distância",
+        "time":"Tempo",
+        "passageiros":"Passageiros",
+        "adultos":"Adultos",
+        "crianca":"Crianças",
+        "confirme":"Confirmar",
+        "anterior":"Anterior",
+        "dadosContato":"Dados de contato",
+        "dadosFaturacao":"Dados da faturação",
+        "maisInformacao":"Mais informações",
+        "confirmarPedido":"Confirmar - Pedido de Cotação",
+        "concluido":"Concluído",
+        "pedidoEnviado":"O seu pedido foi submetido com sucesso!",
+        "entraremosContato":"Entraremos em contato com você o mais breve possível."
+      }
+    }
+  }
+}

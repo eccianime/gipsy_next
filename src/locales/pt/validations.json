@@ -1,0 +1,77 @@
+{
+  "adyen": {
+    "general": "Erro na transação",
+    "Refused": "Recusado"
+  },
+  "checkout": {
+    "Errors::ReservationsExpired": "A reserva expirou",
+    "Errors::PaymentInvalidStatus": "Estado do pagamento inválido",
+    "Errors::TicketsNotReserved": "Tickets não reservados",
+    "Errors::TripsAmountLimitReached": "Limite do número de viagens alcançado",
+    "Errors::PhoneAbsent": "Telefone ausente"
+  },
+  "discountCode": {
+    "noSpecialChar": "Sem caracteres especiais"
+  },
+  "empty": {
+    "searchResult": "Sem ligações disponíveis",
+    "paymentDetails": "Não existem registos de pagamento",
+    "creditCard": "Não existem cartões gravados"
+  },
+  "invalid": "{{- field}} Inválido",
+  "length": "{{field}} tem de ter pelo menos {{length}} caracteres",
+  "missing": "Não preenchido",
+  "modals": {
+    "creditCard": {
+      "delete": {
+        "question": "Tens a certeza?",
+        "message": "Queres realmente excluir o cartão?"
+      },
+      "deleteAndAdd": {
+        "question": "Atingiu o número limite de cartões guardados",
+        "message": "Para adicionar o seu novo cartão, iremos excluir o mais antigo, ok?"
+      }
+    }
+  },
+  "mustBeNumber": "{{field}} tem de ser numérico!",
+  "notFound": "O Utilizador não existe",
+  "passwordConfirm": "As palavras-chave têm de ser iguais",
+  "paymentStatus": {
+    "CVC Declined": "CVC Incorreto",
+    "Authentication failed": "Falha na autenticação"
+  },
+  "required": "{{field}} é obrigatório!",
+  "requiredOr": "{{field}} ou {{secondField}} é obrigatório",
+  "reservation": {
+    "Errors::PriceHasChanged": "O preço já não está disponível"
+  },
+  "somethingWentWrong": "Ocorreu um erro. Por favor contacte o nosso suporte ou tente de novo mais tarde.",
+  "user": {
+    "email": {
+      "invalid": "Por favor digite um E-Mail válido (e.g. name@email.com)",
+      "taken": "Este E-Mail já foi registado"
+    },
+    "password": {
+      "invalid": "Por favor insira uma palavra-chave válida (8 caracteres)"
+    },
+    "phoneNumber": {
+      "invalid": "Só pode conter caracteres numéricos",
+      "notFound": "O utilizador com o número de telefone referido não existe",
+      "taken": "O telefone já foi registado"
+    },
+    "countryCode": {
+      "invalid": "Por favor indique o país correto"
+    },
+    "cpf": {
+      "invalid": "Por favor introduza os 11 dígitos do seu número fiscal, Ex: nnn.nnn.nnn-nn",
+      "invalid1": "Por favor introduza os 11 dígitos do seu cpf corretamente"
+    },
+    "birthDate": {
+      "invalid": "A data de nascimento é inválida",
+      "inFuture": "A data de nascimento não pode ser no futuro"
+    }
+  },
+  "validationCode": {
+    "sentAlready": "O código de confirmação já foi enviado"
+  }
+}

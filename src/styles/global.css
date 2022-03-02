@@ -1,0 +1,19 @@
+body {
+    font-family: Poppins, 'sans-serif';
+}
+
+:root{
+    --primary: #0c4278;
+}
+
+.navbar-light .navbar-toggler {
+    color: transparent;
+}
+
+.offcanvas-start {
+    border-right: none;
+}
+
+a {
+    text-decoration: none;
+}

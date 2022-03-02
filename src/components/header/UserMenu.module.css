@@ -1,0 +1,62 @@
+.menu {
+  position: relative;
+  display: inline-block;
+  margin-left: 8px;
+}
+
+.actions {
+  vertical-align: middle;
+  right: 0px;
+  min-width: 180px;
+  position: absolute;
+  z-index: 999999;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 7px 15px 18px -8px rgba(87, 87, 87, 0.5);
+}
+
+.actions > a {
+  display: block;
+  text-decoration: none;
+  margin: 0;
+}
+
+.actions div {
+  cursor: pointer;
+  height: 55px;
+  padding: 15px;
+  border-bottom: solid 1px #ececec;
+}
+
+.actions > div:hover,
+.actions > a > div:hover {
+  background-color: #f4f4f4;
+}
+
+.text {
+  white-space: nowrap;
+  font-weight: normal;
+  font-size: 0.875rem;
+  line-height: 1.71;
+}
+
+.user {
+  cursor: pointer;
+  background: #f4f4f4;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+}
+
+.loggedUser {
+  background: #85a0bb;
+}
+
+.loggedUser > span {
+  color: #fff;
+  font-size: 0.8125rem;
+  font-weight: 600;
+}

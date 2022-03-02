@@ -1,0 +1,18 @@
+{
+  "discountCode": {
+    "InsufficientOrderPrice": "Código expirado",
+    "NotFound": "Ixi, não temos esse cupom, está escrito certo?",
+    "CustomerNotSignedIn": "Ops! Faça o login e tente novamente",
+    "NotANewCustomer": "Puxa, o cupom é válido somente para sua primeira compra",
+    "NotARoundTrip": "Selecione uma viagem de ida e volta para conseguir o desconto",
+    "Date of sale outside the applicable limits": "A promoção acabou 🙁",
+    "Date of travel outside the applicable limits": "Selecione uma viagem dentro do período válido para uso do cupom",
+    "coupon limit exceeded per travel": "Tente outro horário ou classe, neste ônibus já não há mais assentos promocionais disponíveis",
+    "coupon limit exceeded per sale": "Puxa, acabaram os assentos promocionais!",
+    "Date not allowed": "Cupom inválido para esta data, tente outra",
+    "MaximumUseTimes": "Puxa, acabaram os assentos promocionais!"
+  },
+  "has already been taken": "{{field}} já está ocupado",
+  "emailExist": "Esse e-mail já está cadastrado",
+  "phoneExist": "Esse número de telefone já está cadastrado"
+}

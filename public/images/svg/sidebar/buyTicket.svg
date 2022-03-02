@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 34.18">
+	<defs>
+		<style>
+			.cls-1{fill:#fff;}.cls-1,.cls-3,.cls-5,.cls-7,.cls-9{fill-rule:evenodd;}.cls-2{mask:url(#mask);}.cls-3{fill:#b6dcff;}.cls-4{mask:url(#mask-2);}.cls-5{fill:#d7eeff;}.cls-6{mask:url(#mask-3);}.cls-7{fill:#0b4178;}.cls-8{mask:url(#mask-4);}.cls-9{fill:#2880c9;}.cls-10{fill:#fcea36;}.cls-11{fill:#fdd800;}.cls-12{fill:#f6ac1a;}.cls-13{fill:#df9718;}
+		</style>
+		<mask id="mask" x="0" y="0" width="22" height="34.18" maskUnits="userSpaceOnUse">
+			<g id="arj6d6i7lb">
+				<path id="ffmcci7cxa" class="cls-1" d="M0,0H22V34.18H0Z" />
+			</g>
+		</mask>
+		<mask id="mask-2" x="0" y="0" width="11" height="34.18" maskUnits="userSpaceOnUse">
+			<g id="j3njb2puyd">
+				<path id="g2mi9a1n2c" class="cls-1" d="M0,0H11V34.18H0Z" />
+			</g>
+		</mask>
+		<mask id="mask-3" x="11" y="0" width="11" height="9.32" maskUnits="userSpaceOnUse">
+			<g id="iyic0ezuqf">
+				<path id="u67iyx6xbe" class="cls-1" d="M11,0H22V9.32H11Z" />
+			</g>
+		</mask>
+		<mask id="mask-4" x="0" y="0" width="11" height="9.32" maskUnits="userSpaceOnUse">
+			<g id="ryvw229rrh">
+				<path id="_2hmp9m5sjg" data-name="2hmp9m5sjg" class="cls-1" d="M0,0H11V9.32H0Z" />
+			</g>
+		</mask>
+	</defs>
+	<g id="Camada_2" data-name="Camada 2">
+		<g id="Camada_1-2" data-name="Camada 1">
+			<g class="cls-2">
+				<path class="cls-3" d="M21,0H15.57a1,1,0,0,0-.91.59A4,4,0,0,1,11,3,4,4,0,0,1,7.35.59,1,1,0,0,0,6.43,0H1A1,1,0,0,0,0,1V33.18a1,1,0,0,0,1,1H6.43a1,1,0,0,0,.92-.59,4,4,0,0,1,7.3,0,1,1,0,0,0,.92.59H21a1,1,0,0,0,1-1V1a1,1,0,0,0-1-1" />
+			</g>
+			<g class="cls-4">
+				<path class="cls-5" d="M11,3A4,4,0,0,1,7.35.59,1,1,0,0,0,6.43,0H1A1,1,0,0,0,0,1V33.18a1,1,0,0,0,1,1H6.43a1,1,0,0,0,.92-.59A4,4,0,0,1,11,31.23V3Z" />
+			</g>
+			<g class="cls-6">
+				<path class="cls-7" d="M22,9.32V1a1,1,0,0,0-1-1H15.57a1,1,0,0,0-.91.59A4,4,0,0,1,11,3V9.32Z" />
+			</g>
+			<g class="cls-8">
+				<path class="cls-9" d="M11,3A4,4,0,0,1,7.35.59,1,1,0,0,0,6.43,0H1A1,1,0,0,0,0,1V9.32H11V3Z" />
+			</g>
+			<circle class="cls-10" cx="11" cy="19.83" r="6.6" />
+			<path class="cls-11" d="M17.6,19.83A6.6,6.6,0,0,1,11,26.42V13.23A6.6,6.6,0,0,1,17.6,19.83Z" />
+			<path class="cls-12" d="M12.11,22.11a1.89,1.89,0,0,0,.77-.81H14.3A3.22,3.22,0,0,1,13,22.9a3.76,3.76,0,0,1-2,.56,3.67,3.67,0,0,1-2.15-.66A3.39,3.39,0,0,1,7.5,21h-1v-.8h.77c0-.2,0-.35,0-.46s0-.26,0-.46H6.54v-.8h1a3.39,3.39,0,0,1,1.31-1.76A3.67,3.67,0,0,1,11,16.1a3.73,3.73,0,0,1,2,.57,3.22,3.22,0,0,1,1.3,1.6H12.88a1.89,1.89,0,0,0-.77-.81A2.25,2.25,0,0,0,11,17.18a2.56,2.56,0,0,0-1.33.35,2.33,2.33,0,0,0-.87,1H11v.8H8.53a3.54,3.54,0,0,0,0,.92H11V21H8.76a2.3,2.3,0,0,0,.87,1,2.56,2.56,0,0,0,1.33.35A2.25,2.25,0,0,0,12.11,22.11Z" />
+			<path class="cls-13" d="M14.3,21.3H12.88a1.89,1.89,0,0,1-.77.81,2.34,2.34,0,0,1-1.11.28v1.06a3.73,3.73,0,0,0,2-.55A3.22,3.22,0,0,0,14.3,21.3Z" />
+			<path class="cls-13" d="M13,16.67a3.7,3.7,0,0,0-2-.56v1.07a2.34,2.34,0,0,1,1.11.28,1.89,1.89,0,0,1,.77.81H14.3A3.22,3.22,0,0,0,13,16.67Z" />
+		</g>
+	</g>
+</svg>
